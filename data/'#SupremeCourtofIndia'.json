@@ -1,0 +1,2863 @@
+[
+    {
+        "created_at": "Fri Dec 09 23:57:38 +0000 2022",
+        "id": 1601365485056299008,
+        "id_str": "1601365485056299008",
+        "full_text": "RT @meshramnitin_: #SupremeCourtOfIndia has been the most powerful court (in deception)\n\n1. Is it above Constituent Assembly (CA)?\n2. Can i\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        19,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "meshramnitin_",
+                    "name": "Nitin Meshram",
+                    "id": 1343169995199549441,
+                    "id_str": "1343169995199549441",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1367362483107680256,
+            "id_str": "1367362483107680256",
+            "name": "Umesh Kumar",
+            "screen_name": "UmeshKu25418811",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16,
+            "friends_count": 77,
+            "listed_count": 0,
+            "created_at": "Thu Mar 04 06:33:56 +0000 2021",
+            "favourites_count": 292,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 369,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Dec 04 04:06:57 +0000 2022",
+            "id": 1599253903492911104,
+            "id_str": "1599253903492911104",
+            "full_text": "#SupremeCourtOfIndia has been the most powerful court (in deception)\n\n1. Is it above Constituent Assembly (CA)?\n2. Can it re-write constitution?\n3. Can it unsettle what is settled by CA?\n\nIf not, feel ashamed. It\u2019s acting as CA, re-writing Constitution, unsettling already settled https://t.co/SRbxYkG0v3",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            0,
+                            20
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1599253891991818240,
+                        "id_str": "1599253891991818240",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjGw8QnVUAAV_R7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjGw8QnVUAAV_R7.jpg",
+                        "url": "https://t.co/SRbxYkG0v3",
+                        "display_url": "pic.twitter.com/SRbxYkG0v3",
+                        "expanded_url": "https://twitter.com/meshramnitin_/status/1599253903492911104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1599253891991818240,
+                        "id_str": "1599253891991818240",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjGw8QnVUAAV_R7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjGw8QnVUAAV_R7.jpg",
+                        "url": "https://t.co/SRbxYkG0v3",
+                        "display_url": "pic.twitter.com/SRbxYkG0v3",
+                        "expanded_url": "https://twitter.com/meshramnitin_/status/1599253903492911104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1343169995199549441,
+                "id_str": "1343169995199549441",
+                "name": "Nitin Meshram",
+                "screen_name": "meshramnitin_",
+                "location": "Worldwide ",
+                "description": "Campaign for equality on internet, free speech in digital communication and diversity. Constitution, law & courts. BlueCheck for All. Reinstate Trump. Collegium",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11080,
+                "friends_count": 121,
+                "listed_count": 7,
+                "created_at": "Sun Dec 27 12:21:32 +0000 2020",
+                "favourites_count": 299,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1272,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1573182899096256522/NKpEZRQ0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1573182899096256522/NKpEZRQ0_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 138,
+            "favorite_count": 403,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 138,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:49:02 +0000 2022",
+        "id": 1601363320459517952,
+        "id_str": "1601363320459517952",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1559938063480287232,
+            "id_str": "1559938063480287232",
+            "name": "V",
+            "screen_name": "patriarcha101",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13,
+            "friends_count": 74,
+            "listed_count": 1,
+            "created_at": "Wed Aug 17 16:20:01 +0000 2022",
+            "favourites_count": 12814,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10963,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:39:31 +0000 2022",
+        "id": 1601360925394866177,
+        "id_str": "1601360925394866177",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1251274954223636482,
+            "id_str": "1251274954223636482",
+            "name": "Ruchi Nirvana",
+            "screen_name": "NirvanaRuchi",
+            "location": "",
+            "description": "Dharmic. Interested in Indian History, Dharma, Vipassana (https://t.co/rhcLWtazvj) RT not endorsement.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rhcLWtazvj",
+                            "expanded_url": "http://dhamma.org",
+                            "display_url": "dhamma.org",
+                            "indices": [
+                                58,
+                                81
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 382,
+            "friends_count": 702,
+            "listed_count": 2,
+            "created_at": "Fri Apr 17 22:23:08 +0000 2020",
+            "favourites_count": 218945,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 225339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:35:39 +0000 2022",
+        "id": 1601359955302309889,
+        "id_str": "1601359955302309889",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1167325128411103235,
+            "id_str": "1167325128411103235",
+            "name": "bystander007",
+            "screen_name": "bystander0071",
+            "location": "",
+            "description": "Global melbournite - Hindutva means \"Being Hindu\" #Savesoil",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 172,
+            "friends_count": 257,
+            "listed_count": 0,
+            "created_at": "Fri Aug 30 06:36:20 +0000 2019",
+            "favourites_count": 62189,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22389,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1561728878653349889/vuykLHHd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561728878653349889/vuykLHHd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167325128411103235/1651646987",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:32:44 +0000 2022",
+        "id": 1601359219563040768,
+        "id_str": "1601359219563040768",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1592799617971736577,
+            "id_str": "1592799617971736577",
+            "name": "jk",
+            "screen_name": "sjoh2822",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 469,
+            "listed_count": 0,
+            "created_at": "Wed Nov 16 08:40:08 +0000 2022",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 505,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:30:21 +0000 2022",
+        "id": 1601358618036621314,
+        "id_str": "1601358618036621314",
+        "full_text": "RT @ashokepandit: No body raped us. \nNobody killed us. \nWe didn\u2019t suffer genocide \n&amp; ethnic cleansing . &amp; hence #SupremeCourtOfIndia Court\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        120,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ashokepandit",
+                    "name": "Ashoke Pandit",
+                    "id": 106081433,
+                    "id_str": "106081433",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1200379674116771841,
+            "id_str": "1200379674116771841",
+            "name": "Niraj Kumar Gupta",
+            "screen_name": "nirajgupta155",
+            "location": "Delhi",
+            "description": "I am a person, who believes in humanity and equality in all religions. Wrong is always wrong it can't be divide in Hindu, Muslim or Christian.",
+            "url": "https://t.co/SgmsnhfGjQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SgmsnhfGjQ",
+                            "expanded_url": "http://www.nirmalafoundation.org",
+                            "display_url": "nirmalafoundation.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1478,
+            "friends_count": 1303,
+            "listed_count": 0,
+            "created_at": "Fri Nov 29 11:43:27 +0000 2019",
+            "favourites_count": 110003,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 60088,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1555256462670467072/NffGUCj4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555256462670467072/NffGUCj4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200379674116771841/1575100371",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Dec 08 08:25:41 +0000 2022",
+            "id": 1600768565837434881,
+            "id_str": "1600768565837434881",
+            "full_text": "No body raped us. \nNobody killed us. \nWe didn\u2019t suffer genocide \n&amp; ethnic cleansing . &amp; hence #SupremeCourtOfIndia Court dismisses the curative petition filed by NGO Roots in Kashmir seeking an SIT probe into targeted killings of Kashmiri Pandits during 1989-90.\nShame &amp; Sad .",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                288
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            102,
+                            122
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 106081433,
+                "id_str": "106081433",
+                "name": "Ashoke Pandit",
+                "screen_name": "ashokepandit",
+                "location": "Mumbai",
+                "description": "Indian Filmmaker (Producer - #TheChargesheet on @Zee5India) | Social Activist | Conservationist | @instagram - ashokepandit1",
+                "url": "https://t.co/j7JpBm1bBQ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/j7JpBm1bBQ",
+                                "expanded_url": "https://en.wikipedia.org/wiki/Ashoke_Pandit",
+                                "display_url": "en.wikipedia.org/wiki/Ashoke_Pa\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 309944,
+                "friends_count": 433,
+                "listed_count": 424,
+                "created_at": "Mon Jan 18 12:49:37 +0000 2010",
+                "favourites_count": 67062,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 110140,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1559359395284168705/1YFsaiOH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1559359395284168705/1YFsaiOH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/106081433/1604830344",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1024,
+            "favorite_count": 2489,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1024,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:22:04 +0000 2022",
+        "id": 1601356535418195968,
+        "id_str": "1601356535418195968",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3228368966,
+            "id_str": "3228368966",
+            "name": "escrow\ud83c\uddee\ud83c\uddf3",
+            "screen_name": "scaredcrow15",
+            "location": "India",
+            "description": "AF veteran ,\nRT not endorsement,\nlive and let live",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 199,
+            "friends_count": 328,
+            "listed_count": 13,
+            "created_at": "Wed May 27 16:40:17 +0000 2015",
+            "favourites_count": 57552,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 70529,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/721041483067826176/LZ0SlzuH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/721041483067826176/LZ0SlzuH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:21:46 +0000 2022",
+        "id": 1601356460415684608,
+        "id_str": "1601356460415684608",
+        "full_text": "This, frankly, sounds like the SC arrogating to itself incredible and secret powers.  Serious question of credibility for judges whose very work requires it.\n\n\"Discussions on appointment of judges can\u2019t be..\" https://t.co/rNOAiIYwit via @theprintindia #SupremeCourtOfIndia",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        252,
+                        272
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ThePrintIndia",
+                    "name": "ThePrintIndia",
+                    "id": 2930935453,
+                    "id_str": "2930935453",
+                    "indices": [
+                        237,
+                        251
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/rNOAiIYwit",
+                    "expanded_url": "https://theprint.in/judiciary/discussions-on-appointment-of-judges-cant-be-shared-under-rti-they-are-not-final-rules-sc/1257948/",
+                    "display_url": "theprint.in/judiciary/disc\u2026",
+                    "indices": [
+                        209,
+                        232
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1244653729825140737,
+            "id_str": "1244653729825140737",
+            "name": "nrusimha11",
+            "screen_name": "nrusimha11",
+            "location": "",
+            "description": "Less-than-50-word edits, usually gently calling out leftwing hypocrisy. (Picture detail from Crossing the Ganga, https://t.co/9LF01GujL7. DTs sometimes deleted.)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9LF01GujL7",
+                            "expanded_url": "http://radiosai.org",
+                            "display_url": "radiosai.org",
+                            "indices": [
+                                113,
+                                136
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 10,
+            "friends_count": 5,
+            "listed_count": 0,
+            "created_at": "Mon Mar 30 15:52:50 +0000 2020",
+            "favourites_count": 3418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5756,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267828617720918019/vqyp9eBu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267828617720918019/vqyp9eBu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244653729825140737/1650589659",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:16:52 +0000 2022",
+        "id": 1601355225138311168,
+        "id_str": "1601355225138311168",
+        "full_text": "RT @sankrant: The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        85,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sankrant",
+                    "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                    "id": 117341432,
+                    "id_str": "117341432",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 131086772,
+            "id_str": "131086772",
+            "name": "Goverdhan Reddy",
+            "screen_name": "Govi52",
+            "location": "Bangalore",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 84,
+            "friends_count": 25,
+            "listed_count": 0,
+            "created_at": "Fri Apr 09 06:37:30 +0000 2010",
+            "favourites_count": 71543,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 78220,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 06:58:53 +0000 2022",
+            "id": 1601109109113499649,
+            "id_str": "1601109109113499649",
+            "full_text": "The Supreme Court of India does not know that it is not the job of the #SupremeCourtOfIndia to make laws. https://t.co/HeFmvlLgUE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                105
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HeFmvlLgUE",
+                        "expanded_url": "https://twitter.com/PTI_News/status/1600810098711883777",
+                        "display_url": "twitter.com/PTI_News/statu\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 117341432,
+                "id_str": "117341432",
+                "name": "Sankrant Sanu \u0938\u093e\u0928\u0941 \u0938\u0902\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0a38\u0a70\u0a15\u0a4d\u0a30\u0a3e\u0a02\u0a24 \u0a38\u0a3e\u0a28\u0a41",
+                "screen_name": "sankrant",
+                "location": "USA + India",
+                "description": "Founder @garudaprakashan. Author, Meditator, Drummer. Advocacy for plural world, indigenous cultures. Book: The English Medium Myth \u0928\u093f\u091c \u092d\u093e\u0937\u093e \u0909\u0928\u094d\u0928\u0924\u093f https://t.co/C0URxZthhQ",
+                "url": "https://t.co/5NVw7BuaQ0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5NVw7BuaQ0",
+                                "expanded_url": "http://sankrant.org",
+                                "display_url": "sankrant.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0URxZthhQ",
+                                "expanded_url": "http://grpr.in/emm",
+                                "display_url": "grpr.in/emm",
+                                "indices": [
+                                    148,
+                                    171
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 99113,
+                "friends_count": 1191,
+                "listed_count": 409,
+                "created_at": "Thu Feb 25 08:04:04 +0000 2010",
+                "favourites_count": 32565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 81322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127706244234354689/p_wgIUrj_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/117341432/1565514303",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1600810098711883777,
+            "quoted_status_id_str": "1600810098711883777",
+            "quoted_status": {
+                "created_at": "Thu Dec 08 11:10:43 +0000 2022",
+                "id": 1600810098711883777,
+                "id_str": "1600810098711883777",
+                "full_text": "Any law declared by Supreme Court is \"binding\" on all,  collegium system must be followed: SC",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    93
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.ptinews.com\" rel=\"nofollow\">PTI_Tweets</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "name": "Press Trust of India",
+                    "screen_name": "PTI_News",
+                    "location": "New Delhi, India",
+                    "description": "PTI !  We bring the World to you...",
+                    "url": "http://t.co/lFLnN461pN",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/lFLnN461pN",
+                                    "expanded_url": "http://www.ptinews.com",
+                                    "display_url": "ptinews.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3990679,
+                    "friends_count": 1,
+                    "listed_count": 5317,
+                    "created_at": "Tue Feb 01 07:31:18 +0000 2011",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 134871,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826806758513446913/2__zaKJN_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 672,
+                "favorite_count": 5374,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 528,
+            "favorite_count": 1512,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1600810098711883777,
+        "quoted_status_id_str": "1600810098711883777",
+        "retweet_count": 528,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:15:17 +0000 2022",
+        "id": 1601354829326356480,
+        "id_str": "1601354829326356480",
+        "full_text": "RT @rajprasha: @Indian_Analyzer Why did the #SupremeCourtOfIndia usurp the powers of the Indian Parliament ? \n\nCAN 3 Self Appointed meloard\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourtOfIndia",
+                    "indices": [
+                        44,
+                        64
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rajprasha",
+                    "name": "Krishna_Flute \ud83d\udd49\ufe0f\ud83d\uded5\ud83e\ude94\ud83e\udeb7\ud83d\udd2f",
+                    "id": 1170365393598218245,
+                    "id_str": "1170365393598218245",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "Indian_Analyzer",
+                    "name": "The Analyzer",
+                    "id": 1328525867501428736,
+                    "id_str": "1328525867501428736",
+                    "indices": [
+                        15,
+                        31
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 842772180228362242,
+            "id_str": "842772180228362242",
+            "name": "Ayush Jha",
+            "screen_name": "AyushJh11019192",
+            "location": "Mumbai, India",
+            "description": "civil engineering nationalist india first",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1309,
+            "friends_count": 1386,
+            "listed_count": 0,
+            "created_at": "Fri Mar 17 16:18:40 +0000 2017",
+            "favourites_count": 180391,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 89646,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 15:49:51 +0000 2022",
+            "id": 1601242729513877510,
+            "id_str": "1601242729513877510",
+            "full_text": "@Indian_Analyzer Why did the #SupremeCourtOfIndia usurp the powers of the Indian Parliament ? \n\nCAN 3 Self Appointed meloards downsize the  367+179 elected representatives MPs +PM +LS Speaker+VP+ President of India + People of India \nin the name of scrutiny ? \n\nHow was njac bad for people ?",
+            "truncated": false,
+            "display_text_range": [
+                17,
+                291
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourtOfIndia",
+                        "indices": [
+                            29,
+                            49
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Indian_Analyzer",
+                        "name": "The Analyzer",
+                        "id": 1328525867501428736,
+                        "id_str": "1328525867501428736",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1601000698417598464,
+            "in_reply_to_status_id_str": "1601000698417598464",
+            "in_reply_to_user_id": 1328525867501428736,
+            "in_reply_to_user_id_str": "1328525867501428736",
+            "in_reply_to_screen_name": "Indian_Analyzer",
+            "user": {
+                "id": 1170365393598218245,
+                "id_str": "1170365393598218245",
+                "name": "Krishna_Flute \ud83d\udd49\ufe0f\ud83d\uded5\ud83e\ude94\ud83e\udeb7\ud83d\udd2f",
+                "screen_name": "rajprasha",
+                "location": "Bharat ",
+                "description": "\ud83c\udf1e\u0915\u0930\u094b \u092f\u0924\u094d\u0930 \u0935\u0930\u093f\u0935\u094b \u092c\u093e\u0927\u093f\u0924\u093e\u092f\ud83c\uddee\ud83c\uddf3follow,retweet,like\u2260endorsement\nNO DM",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 319,
+                "friends_count": 322,
+                "listed_count": 0,
+                "created_at": "Sat Sep 07 15:58:26 +0000 2019",
+                "favourites_count": 1713,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5893,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1170373181237907457/O-4noT8X_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170373181237907457/O-4noT8X_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170365393598218245/1645704446",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 11,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

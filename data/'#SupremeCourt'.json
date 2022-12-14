@@ -1,0 +1,2501 @@
+[
+    {
+        "created_at": "Fri Dec 09 23:58:02 +0000 2022",
+        "id": 1601365586126176260,
+        "id_str": "1601365586126176260",
+        "full_text": "#ThoughtForTheDay #CountryDuty World's knowledge in one hand site explains: #Impeachment is bad. When done by the #SupremeCourt judges it is #bad for the #country itself. Were Indian #SupremeCourt right to impeach their CJ? https://t.co/IZO50K7sUP https://t.co/QZHqHsv8dt",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ThoughtForTheDay",
+                    "indices": [
+                        0,
+                        17
+                    ]
+                },
+                {
+                    "text": "CountryDuty",
+                    "indices": [
+                        18,
+                        30
+                    ]
+                },
+                {
+                    "text": "Impeachment",
+                    "indices": [
+                        76,
+                        88
+                    ]
+                },
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        114,
+                        127
+                    ]
+                },
+                {
+                    "text": "bad",
+                    "indices": [
+                        141,
+                        145
+                    ]
+                },
+                {
+                    "text": "country",
+                    "indices": [
+                        154,
+                        162
+                    ]
+                },
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        183,
+                        196
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IZO50K7sUP",
+                    "expanded_url": "http://bit.ly/2vEv41l",
+                    "display_url": "bit.ly/2vEv41l",
+                    "indices": [
+                        224,
+                        247
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1039288594240888833,
+                    "id_str": "1039288594240888833",
+                    "indices": [
+                        248,
+                        271
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DmxLeFbX4AEs-8c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DmxLeFbX4AEs-8c.jpg",
+                    "url": "https://t.co/QZHqHsv8dt",
+                    "display_url": "pic.twitter.com/QZHqHsv8dt",
+                    "expanded_url": "https://twitter.com/FutureWorldCen/status/1039288607662657536/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1039288607662657536,
+                    "source_status_id_str": "1039288607662657536",
+                    "source_user_id": 2198146752,
+                    "source_user_id_str": "2198146752"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1039288594240888833,
+                    "id_str": "1039288594240888833",
+                    "indices": [
+                        248,
+                        271
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/DmxLeFbX4AEs-8c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/DmxLeFbX4AEs-8c.jpg",
+                    "url": "https://t.co/QZHqHsv8dt",
+                    "display_url": "pic.twitter.com/QZHqHsv8dt",
+                    "expanded_url": "https://twitter.com/FutureWorldCen/status/1039288607662657536/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 405,
+                            "h": 551,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1039288607662657536,
+                    "source_status_id_str": "1039288607662657536",
+                    "source_user_id": 2198146752,
+                    "source_user_id_str": "2198146752"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.tweetsuite.com/\" rel=\"nofollow\">Tweet Suite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2198146752,
+            "id_str": "2198146752",
+            "name": "FutureWorldCen",
+            "screen_name": "FutureWorldCen",
+            "location": "UK",
+            "description": "#Nostradamus didn't & we aren't #astrologers but tracing 'Women's Power Femocracy' we predict a #women's world - Femocracy in future. Follow & get 3D icon in DM",
+            "url": "http://t.co/ZvdjnhzIzB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZvdjnhzIzB",
+                            "expanded_url": "http://www.WomensPowerBook.Org",
+                            "display_url": "WomensPowerBook.Org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3566,
+            "friends_count": 4627,
+            "listed_count": 357,
+            "created_at": "Sat Nov 16 17:53:12 +0000 2013",
+            "favourites_count": 193,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 224996,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000748364106/dd4f5ee4b6b5bcdcfeec875d3bf37c37_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000748364106/dd4f5ee4b6b5bcdcfeec875d3bf37c37_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2198146752/1493591363",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:51:21 +0000 2022",
+        "id": 1601363906689085441,
+        "id_str": "1601363906689085441",
+        "full_text": "RT @anywaysmee: Picture speaks louder than caption\n#Hacked \n#PAKvENG #GujaratElectionResult \n#\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc \n#SupremeCourt \n#Police\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hacked",
+                    "indices": [
+                        51,
+                        58
+                    ]
+                },
+                {
+                    "text": "PAKvENG",
+                    "indices": [
+                        60,
+                        68
+                    ]
+                },
+                {
+                    "text": "GujaratElectionResult",
+                    "indices": [
+                        69,
+                        91
+                    ]
+                },
+                {
+                    "text": "\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc",
+                    "indices": [
+                        93,
+                        115
+                    ]
+                },
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        117,
+                        130
+                    ]
+                },
+                {
+                    "text": "Police",
+                    "indices": [
+                        132,
+                        139
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "anywaysmee",
+                    "name": "Wali khan",
+                    "id": 1524484252989104128,
+                    "id_str": "1524484252989104128",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 962083976562266114,
+            "id_str": "962083976562266114",
+            "name": "Muhammad Adnan Khan",
+            "screen_name": "Adnan6782",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 65,
+            "friends_count": 314,
+            "listed_count": 1,
+            "created_at": "Fri Feb 09 22:01:09 +0000 2018",
+            "favourites_count": 3461,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4445,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1475215702999150602/HGbezu4p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1475215702999150602/HGbezu4p_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 12:29:13 +0000 2022",
+            "id": 1601192242097844224,
+            "id_str": "1601192242097844224",
+            "full_text": "Picture speaks louder than caption\n#Hacked \n#PAKvENG #GujaratElectionResult \n#\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc \n#SupremeCourt \n#Police https://t.co/RIkvcdEuzo",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                123
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hacked",
+                        "indices": [
+                            35,
+                            42
+                        ]
+                    },
+                    {
+                        "text": "PAKvENG",
+                        "indices": [
+                            44,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "GujaratElectionResult",
+                        "indices": [
+                            53,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc",
+                        "indices": [
+                            77,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            101,
+                            114
+                        ]
+                    },
+                    {
+                        "text": "Police",
+                        "indices": [
+                            116,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601192232203296768,
+                        "id_str": "1601192232203296768",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "url": "https://t.co/RIkvcdEuzo",
+                        "display_url": "pic.twitter.com/RIkvcdEuzo",
+                        "expanded_url": "https://twitter.com/anywaysmee/status/1601192242097844224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1020,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 578,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1271,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601192232203296768,
+                        "id_str": "1601192232203296768",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "url": "https://t.co/RIkvcdEuzo",
+                        "display_url": "pic.twitter.com/RIkvcdEuzo",
+                        "expanded_url": "https://twitter.com/anywaysmee/status/1601192242097844224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1020,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 578,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1271,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1524484252989104128,
+                "id_str": "1524484252989104128",
+                "name": "Wali khan",
+                "screen_name": "anywaysmee",
+                "location": "",
+                "description": "busy in creating a future \ud83d\ude0c",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14,
+                "friends_count": 146,
+                "listed_count": 0,
+                "created_at": "Wed May 11 20:19:14 +0000 2022",
+                "favourites_count": 124,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 128,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1551330531547271173/yQDrZgYM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1551330531547271173/yQDrZgYM_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 191,
+            "favorite_count": 478,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 191,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:51:07 +0000 2022",
+        "id": 1601363847540981760,
+        "id_str": "1601363847540981760",
+        "full_text": "@ericareport Barrett is a typical \"Christian\" who is really a white racist.  #SupremeCourt",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            90
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        77,
+                        90
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ericareport",
+                    "name": "Erica Marsh",
+                    "id": 1575205434843049984,
+                    "id_str": "1575205434843049984",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1600898013534179328,
+        "in_reply_to_status_id_str": "1600898013534179328",
+        "in_reply_to_user_id": 1575205434843049984,
+        "in_reply_to_user_id_str": "1575205434843049984",
+        "in_reply_to_screen_name": "ericareport",
+        "user": {
+            "id": 16795378,
+            "id_str": "16795378",
+            "name": "caribbeansoul79",
+            "screen_name": "caribbeansoul79",
+            "location": "Pleasantville",
+            "description": "#Resist #Biden2020 \n #Trumpvirus #Republicansaretheproblem #Insurrection",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1985,
+            "friends_count": 4445,
+            "listed_count": 1,
+            "created_at": "Wed Oct 15 22:03:23 +0000 2008",
+            "favourites_count": 10582,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088791339234410499/acQAUw3r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088791339234410499/acQAUw3r_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16795378/1548423246",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:40:38 +0000 2022",
+        "id": 1601361207801221120,
+        "id_str": "1601361207801221120",
+        "full_text": "You have to watch this. #SupremeCourt \nChristian Nationalists are Crafting a Theocracy https://t.co/wwPBRocw0g via @YouTube",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            123
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        24,
+                        37
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        115,
+                        123
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/wwPBRocw0g",
+                    "expanded_url": "https://youtu.be/mWcUClPghtU",
+                    "display_url": "youtu.be/mWcUClPghtU",
+                    "indices": [
+                        87,
+                        110
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 429035569,
+            "id_str": "429035569",
+            "name": "Amy Hamner Walker",
+            "screen_name": "AmyHamnerWalker",
+            "location": "Fort Lauderdale, Florida",
+            "description": "#Resistance #Resist #FBR  #RollTide",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6403,
+            "friends_count": 7105,
+            "listed_count": 64,
+            "created_at": "Mon Dec 05 13:47:31 +0000 2011",
+            "favourites_count": 69790,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 83765,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/831021564594368512/1V5Q1rlr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/831021564594368512/1V5Q1rlr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/429035569/1397449178",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:34:40 +0000 2022",
+        "id": 1601359706815356929,
+        "id_str": "1601359706815356929",
+        "full_text": "RT @NH_India: The #SupremeCourt dismissed a curative petition seeking investigation into the alleged mass murder of #KashmiriPandits in the\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        18,
+                        31
+                    ]
+                },
+                {
+                    "text": "KashmiriPandits",
+                    "indices": [
+                        116,
+                        132
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NH_India",
+                    "name": "National Herald",
+                    "id": 2590835076,
+                    "id_str": "2590835076",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1592799617971736577,
+            "id_str": "1592799617971736577",
+            "name": "jk",
+            "screen_name": "sjoh2822",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 469,
+            "listed_count": 0,
+            "created_at": "Wed Nov 16 08:40:08 +0000 2022",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 505,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Dec 08 12:45:00 +0000 2022",
+            "id": 1600833823540973570,
+            "id_str": "1600833823540973570",
+            "full_text": "The #SupremeCourt dismissed a curative petition seeking investigation into the alleged mass murder of #KashmiriPandits in the valley in 1989-1990. https://t.co/YVKAm2yOwE",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                170
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            4,
+                            17
+                        ]
+                    },
+                    {
+                        "text": "KashmiriPandits",
+                        "indices": [
+                            102,
+                            118
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YVKAm2yOwE",
+                        "expanded_url": "https://www.nationalheraldindia.com/national/killing-of-kashmiri-pandits-sc-tosses-out-curative-petition-over-mass-murder",
+                        "display_url": "nationalheraldindia.com/national/killi\u2026",
+                        "indices": [
+                            147,
+                            170
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://nationalherald-web.quintype.io\" rel=\"nofollow\">National Herald</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2590835076,
+                "id_str": "2590835076",
+                "name": "National Herald",
+                "screen_name": "NH_India",
+                "location": "New Delhi, India",
+                "description": "National Herald\u2014founded in 1938 by Jawaharlal Nehru\u2014is a news website and weekly newspaper with a focus on people, governance and current affairs",
+                "url": "https://t.co/EC0QuiiBM2",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/EC0QuiiBM2",
+                                "expanded_url": "https://www.nationalheraldindia.com/",
+                                "display_url": "nationalheraldindia.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 117534,
+                "friends_count": 329,
+                "listed_count": 308,
+                "created_at": "Fri Jun 27 05:46:24 +0000 2014",
+                "favourites_count": 368,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 85259,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/865440783444320259/LDZkKH5F_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/865440783444320259/LDZkKH5F_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2590835076/1508483063",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:25:32 +0000 2022",
+        "id": 1601357407149490178,
+        "id_str": "1601357407149490178",
+        "full_text": "RT @Queen_1776: Raland Brunson v Adam's #SCOTUS Update! \n\n\u201cConference date set! January 6, 2023. The 9 justices will meet to talk about my\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SCOTUS",
+                    "indices": [
+                        40,
+                        47
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Queen_1776",
+                    "name": "victoria \ud83c\udf4a",
+                    "id": 1564780628645658626,
+                    "id_str": "1564780628645658626",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 64575378,
+            "id_str": "64575378",
+            "name": "A J",
+            "screen_name": "arlana90",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1316,
+            "friends_count": 5003,
+            "listed_count": 0,
+            "created_at": "Tue Aug 11 00:56:55 +0000 2009",
+            "favourites_count": 36340,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1449808905840824326/ntAiD-cK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449808905840824326/ntAiD-cK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/64575378/1644133271",
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 06 07:02:11 +0000 2022",
+            "id": 1600022774256308225,
+            "id_str": "1600022774256308225",
+            "full_text": "Raland Brunson v Adam's #SCOTUS Update! \n\n\u201cConference date set! January 6, 2023. The 9 justices will meet to talk about my case. This is when they will decide if they want to judge it, or pass on it\"\n#ralandbrunson\n\n#brunsonvsadams #BrunsonBrothers \n#SupremeCourt \n#Jan6 https://t.co/op69TeRnm6",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                270
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SCOTUS",
+                        "indices": [
+                            24,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "ralandbrunson",
+                        "indices": [
+                            200,
+                            214
+                        ]
+                    },
+                    {
+                        "text": "brunsonvsadams",
+                        "indices": [
+                            216,
+                            231
+                        ]
+                    },
+                    {
+                        "text": "BrunsonBrothers",
+                        "indices": [
+                            232,
+                            248
+                        ]
+                    },
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            250,
+                            263
+                        ]
+                    },
+                    {
+                        "text": "Jan6",
+                        "indices": [
+                            265,
+                            270
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1600022771748245506,
+                        "id_str": "1600022771748245506",
+                        "indices": [
+                            271,
+                            294
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjRsO86XEAI3Ldm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjRsO86XEAI3Ldm.jpg",
+                        "url": "https://t.co/op69TeRnm6",
+                        "display_url": "pic.twitter.com/op69TeRnm6",
+                        "expanded_url": "https://twitter.com/Queen_1776/status/1600022774256308225/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 540,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 306,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 922,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1600022771748245506,
+                        "id_str": "1600022771748245506",
+                        "indices": [
+                            271,
+                            294
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjRsO86XEAI3Ldm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjRsO86XEAI3Ldm.jpg",
+                        "url": "https://t.co/op69TeRnm6",
+                        "display_url": "pic.twitter.com/op69TeRnm6",
+                        "expanded_url": "https://twitter.com/Queen_1776/status/1600022774256308225/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 540,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 306,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 922,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1564780628645658626,
+                "id_str": "1564780628645658626",
+                "name": "victoria \ud83c\udf4a",
+                "screen_name": "Queen_1776",
+                "location": "Texas, USA",
+                "description": "Newsom chased me to Texas \n\n#Maga #2A #TRUMP2024 #TrumpWasRightAboutEverything \n#FJB  #LiberalismIsAMentalDisease\n\nWILL MUTE/BLOCK IGNORANT ENGAGEMENTS",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 797,
+                "friends_count": 1155,
+                "listed_count": 2,
+                "created_at": "Wed Aug 31 01:02:48 +0000 2022",
+                "favourites_count": 2308,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1384,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1564781097564741632/RheMxFrD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1564781097564741632/RheMxFrD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564780628645658626/1661909528",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 23,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:17:53 +0000 2022",
+        "id": 1601355484182609920,
+        "id_str": "1601355484182609920",
+        "full_text": "RT @Xpress_edex: It was revealed that the #admission for #PhD programmes was unfair to #students from #SC, #ST and #OBC\n\nWhat is the order\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "admission",
+                    "indices": [
+                        42,
+                        52
+                    ]
+                },
+                {
+                    "text": "PhD",
+                    "indices": [
+                        57,
+                        61
+                    ]
+                },
+                {
+                    "text": "students",
+                    "indices": [
+                        87,
+                        96
+                    ]
+                },
+                {
+                    "text": "SC",
+                    "indices": [
+                        102,
+                        105
+                    ]
+                },
+                {
+                    "text": "ST",
+                    "indices": [
+                        107,
+                        110
+                    ]
+                },
+                {
+                    "text": "OBC",
+                    "indices": [
+                        115,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Xpress_edex",
+                    "name": "Edex - The New Indian Express",
+                    "id": 728025157,
+                    "id_str": "728025157",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1558240275922882560,
+            "id_str": "1558240275922882560",
+            "name": "End Caste Discrimination",
+            "screen_name": "caste_end",
+            "location": "",
+            "description": "For all the \u201cprivileged \u201c or \u201cupper castes \u201c or \u201coppressor castes \u201c who want to end caste discrimination and make this world a better place.! Heal yourself!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 250,
+            "friends_count": 238,
+            "listed_count": 1,
+            "created_at": "Fri Aug 12 23:53:58 +0000 2022",
+            "favourites_count": 8897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3338,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1558247192921612288/9mFTpcH1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1558247192921612288/9mFTpcH1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558240275922882560/1660350095",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 08:16:04 +0000 2022",
+            "id": 1601128531186024449,
+            "id_str": "1601128531186024449",
+            "full_text": "It was revealed that the #admission for #PhD programmes was unfair to #students from #SC, #ST and #OBC\n\nWhat is the order of the #SupremeCourt to #IITs? Read here https://t.co/B7qkMFXwJ3 \ud83d\udc48\n\n#Reservation #Policy #IIT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                215
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "admission",
+                        "indices": [
+                            25,
+                            35
+                        ]
+                    },
+                    {
+                        "text": "PhD",
+                        "indices": [
+                            40,
+                            44
+                        ]
+                    },
+                    {
+                        "text": "students",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "SC",
+                        "indices": [
+                            85,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "ST",
+                        "indices": [
+                            90,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "OBC",
+                        "indices": [
+                            98,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            129,
+                            142
+                        ]
+                    },
+                    {
+                        "text": "IITs",
+                        "indices": [
+                            146,
+                            151
+                        ]
+                    },
+                    {
+                        "text": "Reservation",
+                        "indices": [
+                            190,
+                            202
+                        ]
+                    },
+                    {
+                        "text": "Policy",
+                        "indices": [
+                            203,
+                            210
+                        ]
+                    },
+                    {
+                        "text": "IIT",
+                        "indices": [
+                            211,
+                            215
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/B7qkMFXwJ3",
+                        "expanded_url": "https://bit.ly/3BnA9ux",
+                        "display_url": "bit.ly/3BnA9ux",
+                        "indices": [
+                            163,
+                            186
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.semrush.com/\" rel=\"nofollow\">Semrush Social Media Tool</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728025157,
+                "id_str": "728025157",
+                "name": "Edex - The New Indian Express",
+                "screen_name": "Xpress_edex",
+                "location": "Chennai",
+                "description": "Higher Education website of @newindianxpress\nCheck out for updates on education, career and news",
+                "url": "https://t.co/e3cYmFEHo6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/e3cYmFEHo6",
+                                "expanded_url": "http://www.edexlive.com",
+                                "display_url": "edexlive.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2498,
+                "friends_count": 374,
+                "listed_count": 13,
+                "created_at": "Tue Jul 31 09:46:22 +0000 2012",
+                "favourites_count": 268,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21971,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1481148422803836930/82kc_x-b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481148422803836930/82kc_x-b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728025157/1624428806",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:10:50 +0000 2022",
+        "id": 1601353709589757955,
+        "id_str": "1601353709589757955",
+        "full_text": "RT @anywaysmee: Picture speaks louder than caption\n#Hacked \n#PAKvENG #GujaratElectionResult \n#\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc \n#SupremeCourt \n#Police\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hacked",
+                    "indices": [
+                        51,
+                        58
+                    ]
+                },
+                {
+                    "text": "PAKvENG",
+                    "indices": [
+                        60,
+                        68
+                    ]
+                },
+                {
+                    "text": "GujaratElectionResult",
+                    "indices": [
+                        69,
+                        91
+                    ]
+                },
+                {
+                    "text": "\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc",
+                    "indices": [
+                        93,
+                        115
+                    ]
+                },
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        117,
+                        130
+                    ]
+                },
+                {
+                    "text": "Police",
+                    "indices": [
+                        132,
+                        139
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "anywaysmee",
+                    "name": "Wali khan",
+                    "id": 1524484252989104128,
+                    "id_str": "1524484252989104128",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1594828526372495379,
+            "id_str": "1594828526372495379",
+            "name": "Abida Khan",
+            "screen_name": "AbidaKh09944690",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16,
+            "friends_count": 300,
+            "listed_count": 0,
+            "created_at": "Mon Nov 21 23:02:40 +0000 2022",
+            "favourites_count": 93,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 419,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1594828672711761943/11od7L8l_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594828672711761943/11od7L8l_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 12:29:13 +0000 2022",
+            "id": 1601192242097844224,
+            "id_str": "1601192242097844224",
+            "full_text": "Picture speaks louder than caption\n#Hacked \n#PAKvENG #GujaratElectionResult \n#\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc \n#SupremeCourt \n#Police https://t.co/RIkvcdEuzo",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                123
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hacked",
+                        "indices": [
+                            35,
+                            42
+                        ]
+                    },
+                    {
+                        "text": "PAKvENG",
+                        "indices": [
+                            44,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "GujaratElectionResult",
+                        "indices": [
+                            53,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "\u0627\u06cc\u06a9_\u062a\u06be\u0627_\u062f\u06be\u0648\u06a9\u06d2\u0628\u0627\u0632_\u062d\u0627\u062c\u06cc",
+                        "indices": [
+                            77,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            101,
+                            114
+                        ]
+                    },
+                    {
+                        "text": "Police",
+                        "indices": [
+                            116,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601192232203296768,
+                        "id_str": "1601192232203296768",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "url": "https://t.co/RIkvcdEuzo",
+                        "display_url": "pic.twitter.com/RIkvcdEuzo",
+                        "expanded_url": "https://twitter.com/anywaysmee/status/1601192242097844224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1020,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 578,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1271,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601192232203296768,
+                        "id_str": "1601192232203296768",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjiT2gmXoAAC932.jpg",
+                        "url": "https://t.co/RIkvcdEuzo",
+                        "display_url": "pic.twitter.com/RIkvcdEuzo",
+                        "expanded_url": "https://twitter.com/anywaysmee/status/1601192242097844224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1020,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 578,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1271,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1524484252989104128,
+                "id_str": "1524484252989104128",
+                "name": "Wali khan",
+                "screen_name": "anywaysmee",
+                "location": "",
+                "description": "busy in creating a future \ud83d\ude0c",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14,
+                "friends_count": 146,
+                "listed_count": 0,
+                "created_at": "Wed May 11 20:19:14 +0000 2022",
+                "favourites_count": 124,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 128,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1551330531547271173/yQDrZgYM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1551330531547271173/yQDrZgYM_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 191,
+            "favorite_count": 478,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 191,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:07:23 +0000 2022",
+        "id": 1601352842123816962,
+        "id_str": "1601352842123816962",
+        "full_text": "RT @Xpress_edex: It was revealed that the #admission for #PhD programmes was unfair to #students from #SC, #ST and #OBC\n\nWhat is the order\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "admission",
+                    "indices": [
+                        42,
+                        52
+                    ]
+                },
+                {
+                    "text": "PhD",
+                    "indices": [
+                        57,
+                        61
+                    ]
+                },
+                {
+                    "text": "students",
+                    "indices": [
+                        87,
+                        96
+                    ]
+                },
+                {
+                    "text": "SC",
+                    "indices": [
+                        102,
+                        105
+                    ]
+                },
+                {
+                    "text": "ST",
+                    "indices": [
+                        107,
+                        110
+                    ]
+                },
+                {
+                    "text": "OBC",
+                    "indices": [
+                        115,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Xpress_edex",
+                    "name": "Edex - The New Indian Express",
+                    "id": 728025157,
+                    "id_str": "728025157",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 866587785574064129,
+            "id_str": "866587785574064129",
+            "name": "APPSC IIT Bombay",
+            "screen_name": "AppscIITb",
+            "location": "Mumbai",
+            "description": "#Ambedkar #Periyar #Phule study circle is a student collective which respond to issues impacting students within and out side IITB.",
+            "url": "https://t.co/jVjwB4HvVA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jVjwB4HvVA",
+                            "expanded_url": "https://linktr.ee/appsc.iitb",
+                            "display_url": "linktr.ee/appsc.iitb",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3402,
+            "friends_count": 214,
+            "listed_count": 5,
+            "created_at": "Mon May 22 09:33:23 +0000 2017",
+            "favourites_count": 3162,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1617,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387680842076463106/jQgdRSVm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387680842076463106/jQgdRSVm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/866587785574064129/1552454597",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 08:16:04 +0000 2022",
+            "id": 1601128531186024449,
+            "id_str": "1601128531186024449",
+            "full_text": "It was revealed that the #admission for #PhD programmes was unfair to #students from #SC, #ST and #OBC\n\nWhat is the order of the #SupremeCourt to #IITs? Read here https://t.co/B7qkMFXwJ3 \ud83d\udc48\n\n#Reservation #Policy #IIT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                215
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "admission",
+                        "indices": [
+                            25,
+                            35
+                        ]
+                    },
+                    {
+                        "text": "PhD",
+                        "indices": [
+                            40,
+                            44
+                        ]
+                    },
+                    {
+                        "text": "students",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "SC",
+                        "indices": [
+                            85,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "ST",
+                        "indices": [
+                            90,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "OBC",
+                        "indices": [
+                            98,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "SupremeCourt",
+                        "indices": [
+                            129,
+                            142
+                        ]
+                    },
+                    {
+                        "text": "IITs",
+                        "indices": [
+                            146,
+                            151
+                        ]
+                    },
+                    {
+                        "text": "Reservation",
+                        "indices": [
+                            190,
+                            202
+                        ]
+                    },
+                    {
+                        "text": "Policy",
+                        "indices": [
+                            203,
+                            210
+                        ]
+                    },
+                    {
+                        "text": "IIT",
+                        "indices": [
+                            211,
+                            215
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/B7qkMFXwJ3",
+                        "expanded_url": "https://bit.ly/3BnA9ux",
+                        "display_url": "bit.ly/3BnA9ux",
+                        "indices": [
+                            163,
+                            186
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.semrush.com/\" rel=\"nofollow\">Semrush Social Media Tool</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728025157,
+                "id_str": "728025157",
+                "name": "Edex - The New Indian Express",
+                "screen_name": "Xpress_edex",
+                "location": "Chennai",
+                "description": "Higher Education website of @newindianxpress\nCheck out for updates on education, career and news",
+                "url": "https://t.co/e3cYmFEHo6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/e3cYmFEHo6",
+                                "expanded_url": "http://www.edexlive.com",
+                                "display_url": "edexlive.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2498,
+                "friends_count": 374,
+                "listed_count": 13,
+                "created_at": "Tue Jul 31 09:46:22 +0000 2012",
+                "favourites_count": 268,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21971,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1481148422803836930/82kc_x-b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481148422803836930/82kc_x-b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728025157/1624428806",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:07:12 +0000 2022",
+        "id": 1601352792517771264,
+        "id_str": "1601352792517771264",
+        "full_text": "@mslindanash @ConversationUS Too bad #ChiefJusticeRoberts doesn't have a personal/professional twitter account (or maybe he does...) because this sends a clear response to his query on why the legitimacy of the #SupremeCourt is being questioned.\nFor a judge he's as dim as a 5 watt incandescent bulb.",
+        "truncated": false,
+        "display_text_range": [
+            29,
+            300
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ChiefJusticeRoberts",
+                    "indices": [
+                        37,
+                        57
+                    ]
+                },
+                {
+                    "text": "SupremeCourt",
+                    "indices": [
+                        211,
+                        224
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mslindanash",
+                    "name": "LeftOutLoud \ud83c\uddfa\ud83c\uddf8\ud83d\udc99\ud83c\uddfa\ud83c\udde6 #SlavaUkraini",
+                    "id": 888907268304945152,
+                    "id_str": "888907268304945152",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "ConversationUS",
+                    "name": "The Conversation U.S.",
+                    "id": 2733320850,
+                    "id_str": "2733320850",
+                    "indices": [
+                        13,
+                        28
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1595634077365047296,
+        "in_reply_to_status_id_str": "1595634077365047296",
+        "in_reply_to_user_id": 888907268304945152,
+        "in_reply_to_user_id_str": "888907268304945152",
+        "in_reply_to_screen_name": "mslindanash",
+        "user": {
+            "id": 3252691075,
+            "id_str": "3252691075",
+            "name": "hummin",
+            "screen_name": "humming_along",
+            "location": "Manchester, NH",
+            "description": "I do my own thing when the whim strikes.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 338,
+            "friends_count": 458,
+            "listed_count": 0,
+            "created_at": "Mon Jun 22 12:32:01 +0000 2015",
+            "favourites_count": 88419,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 37048,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1594670261302878208/NlpdDbLY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594670261302878208/NlpdDbLY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3252691075/1655338137",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

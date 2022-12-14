@@ -1,0 +1,2722 @@
+[
+    {
+        "created_at": "Fri Dec 09 23:59:54 +0000 2022",
+        "id": 1601366055439699970,
+        "id_str": "1601366055439699970",
+        "full_text": "RT @hani_7_: Skin head,dead head\nEverybody gone bad\nSituation aggravation\nEverybody,allegation\nIn the suite on the news\nEverybody,dog food\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hani_7_",
+                    "name": "\ubc29\ud0c4\u2077",
+                    "id": 1537114325999046656,
+                    "id_str": "1537114325999046656",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1417921142514352131,
+            "id_str": "1417921142514352131",
+            "name": "\u0628\u0627\u0632\u0645\u0627\u0646\u062f\u0647 \u0686\u0647\u0627\u0631 \u0631\u0648\u0632\u02e1\u1d43(\u063a\u0631\u063a\u0631\u0648\u06cc \u062a\u06cc \u0627\u0644)",
+            "screen_name": "btstwit_ir",
+            "location": "\u062e\u0648\u0646\u0647 \u0633\u067e",
+            "description": "\u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0633\u062a\u0627\u062f \u0628\u0627\u0632\u0645\u0627\u0646\u062f\u06af\u0627\u0646 \u06a9\u0646\u0633\u0631\u062a\u0627\u06cc \u0644\u0633 \u0627\u0646\u062c\u0644\u0633",
+            "url": "https://t.co/X3UWhQnMoe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X3UWhQnMoe",
+                            "expanded_url": "https://telegram.me/BChatBot?start=sc-546417-UG311yg",
+                            "display_url": "telegram.me/BChatBot?start\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3750,
+            "friends_count": 3879,
+            "listed_count": 13,
+            "created_at": "Wed Jul 21 18:55:31 +0000 2021",
+            "favourites_count": 6907,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22687,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1599039236484857856/DiRJtt-P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1599039236484857856/DiRJtt-P_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417921142514352131/1670075658",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Sep 19 00:22:30 +0000 2022",
+            "id": 1571655940180525056,
+            "id_str": "1571655940180525056",
+            "full_text": "Skin head,dead head\nEverybody gone bad\nSituation aggravation\nEverybody,allegation\nIn the suite on the news\nEverybody,dog food\nBang-bang,shock dead\nEverybody's gone mad\nAll I wanna say is that they don't really care about us\n-Michael Jackson\n\u0627\u06cc\u0646 \u0622\u0647\u0646\u06af \u062e\u06cc\u0644\u06cc \u0628\u0631\u0627\u06cc \u0645\u0627\u0639\u0647\n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                276
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            265,
+                            276
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1537114325999046656,
+                "id_str": "1537114325999046656",
+                "name": "\ubc29\ud0c4\u2077",
+                "screen_name": "hani_7_",
+                "location": "my bed.",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1240,
+                "friends_count": 1078,
+                "listed_count": 2,
+                "created_at": "Wed Jun 15 16:47:51 +0000 2022",
+                "favourites_count": 4749,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12984,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1578424261739520000/oj38wo8L_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1578424261739520000/oj38wo8L_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1537114325999046656/1663439814",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 15,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:47 +0000 2022",
+        "id": 1601366025705992192,
+        "id_str": "1601366025705992192",
+        "full_text": "RT @maasalan: Wife of Kurdish political prisoner Mohsen Mazloum asks world to stop Islamic Republic from quietly executing her husband and\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "maasalan",
+                    "name": "mahsa alimardani \ud83c\udf12 \u0645\u062b\u0644\u0627",
+                    "id": 97383997,
+                    "id_str": "97383997",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 49286106,
+            "id_str": "49286106",
+            "name": "Mehdi Shoghi",
+            "screen_name": "MehdiShoghi",
+            "location": "",
+            "description": "Marx on Money, Money isn't everything; it's the only thing. H.P.Minsky\nMacro-financial analytics consultant",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 577,
+            "friends_count": 3973,
+            "listed_count": 3,
+            "created_at": "Sun Jun 21 10:28:46 +0000 2009",
+            "favourites_count": 59552,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4902,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2385312957/jd6zrhzpjwf2hcwx8zpi_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2385312957/jd6zrhzpjwf2hcwx8zpi_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 21:11:39 +0000 2022",
+            "id": 1601323717053009920,
+            "id_str": "1601323717053009920",
+            "full_text": "Wife of Kurdish political prisoner Mohsen Mazloum asks world to stop Islamic Republic from quietly executing her husband and 3 friends. After 80 days of no news from him IRIB broadcasted his forced confessions induced by torture. #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc #\u0645\u062d\u0633\u0646_\u0645\u0638\u0644\u0648\u0645 https://t.co/STn4gNjOAT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            230,
+                            241
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u062d\u0633\u0646_\u0645\u0638\u0644\u0648\u0645",
+                        "indices": [
+                            242,
+                            253
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/STn4gNjOAT",
+                        "expanded_url": "https://twitter.com/JTeimasi/status/1601224886818525184/video/1",
+                        "display_url": "twitter.com/JTeimasi/statu\u2026",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 97383997,
+                "id_str": "97383997",
+                "name": "mahsa alimardani \ud83c\udf12 \u0645\u062b\u0644\u0627",
+                "screen_name": "maasalan",
+                "location": "emigrating",
+                "description": "Preoccupied with tech and info flows. Opinions mine. Researching/Advocating @article19org PhD'ing @OiiOxford @MansfieldOxford",
+                "url": "https://t.co/qZwC9GrI6k",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qZwC9GrI6k",
+                                "expanded_url": "https://www.oii.ox.ac.uk/people/profiles/mahsa-alimadeni/",
+                                "display_url": "oii.ox.ac.uk/people/profile\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16670,
+                "friends_count": 3112,
+                "listed_count": 370,
+                "created_at": "Thu Dec 17 06:45:03 +0000 2009",
+                "favourites_count": 31707,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 8679,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1599124854065844224/RBL9VfTi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1599124854065844224/RBL9VfTi_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/97383997/1664787032",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 669,
+            "favorite_count": 1136,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 669,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:41 +0000 2022",
+        "id": 1601366002478256128,
+        "id_str": "1601366002478256128",
+        "full_text": "@thisrad6 Ali Moazzami, a 20-year-old young man, has been put on the execution row after Mohsen Shekari.\nPlease be his voice to prevent this crime.\n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc\n#\u0639\u0644\u06cc_\u0645\u0639\u0638\u0645\u06cc",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            170
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                    "indices": [
+                        148,
+                        159
+                    ]
+                },
+                {
+                    "text": "\u0639\u0644\u06cc_\u0645\u0639\u0638\u0645\u06cc",
+                    "indices": [
+                        160,
+                        170
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thisrad6",
+                    "name": "mhdi rad",
+                    "id": 1376509166441861125,
+                    "id_str": "1376509166441861125",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1601278107218214912,
+        "in_reply_to_status_id_str": "1601278107218214912",
+        "in_reply_to_user_id": 1376509166441861125,
+        "in_reply_to_user_id_str": "1376509166441861125",
+        "in_reply_to_screen_name": "thisrad6",
+        "user": {
+            "id": 1590949320370442241,
+            "id_str": "1590949320370442241",
+            "name": "\u062f\u0627\u062f\u0627\u0634 \u062e\u0627\u0634\u0642\u0686\u06cc",
+            "screen_name": "senor_Ameg",
+            "location": "",
+            "description": "\u0627\u06cc\u0646 \u067e\u0627\u06cc\u06cc\u0632 \u0628\u0648\u06cc \u0628\u0647\u0627\u0631 \u0645\u06cc\u062f\u0647",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 787,
+            "friends_count": 775,
+            "listed_count": 0,
+            "created_at": "Fri Nov 11 06:07:58 +0000 2022",
+            "favourites_count": 1020,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 556,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1590954941622865920/6H7Y0S_v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590954941622865920/6H7Y0S_v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590949320370442241/1668171758",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:27 +0000 2022",
+        "id": 1601365942931697664,
+        "id_str": "1601365942931697664",
+        "full_text": "RT @Omid_M: Iran: Hossein Mohammadi, 26, an artist &amp; theatre actor, arrested on Nov 5, is one of the 5 people sentenced to death by a kanga\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Omid_M",
+                    "name": "Omid Memarian",
+                    "id": 22899683,
+                    "id_str": "22899683",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1439990135869870085,
+            "id_str": "1439990135869870085",
+            "name": "Azita Goshtasebi",
+            "screen_name": "GoshtasebiA",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 114,
+            "listed_count": 0,
+            "created_at": "Mon Sep 20 16:30:03 +0000 2021",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1997,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1439990250231762952/iqmxTFIt_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439990250231762952/iqmxTFIt_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 00:18:02 +0000 2022",
+            "id": 1601008231387918338,
+            "id_str": "1601008231387918338",
+            "full_text": "Iran: Hossein Mohammadi, 26, an artist &amp; theatre actor, arrested on Nov 5, is one of the 5 people sentenced to death by a kangaroo court in Karaj. Like others, his case was investigated hastily. Stop the sham trials &amp; killings!  #MahsaAmini #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc #IranRevolution #\u0645\u062d\u0633\u0646_\u0634\u06a9\u0627\u0631\u06cc https://t.co/6KtEiP1vUq",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                288
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MahsaAmini",
+                        "indices": [
+                            237,
+                            248
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            249,
+                            260
+                        ]
+                    },
+                    {
+                        "text": "IranRevolution",
+                        "indices": [
+                            261,
+                            276
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u062d\u0633\u0646_\u0634\u06a9\u0627\u0631\u06cc",
+                        "indices": [
+                            277,
+                            288
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601008228132954112,
+                        "id_str": "1601008228132954112",
+                        "indices": [
+                            289,
+                            312
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjfsgEBXoAACb9v.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjfsgEBXoAACb9v.jpg",
+                        "url": "https://t.co/6KtEiP1vUq",
+                        "display_url": "pic.twitter.com/6KtEiP1vUq",
+                        "expanded_url": "https://twitter.com/Omid_M/status/1601008231387918338/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1284,
+                                "h": 1260,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 667,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1178,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601008228132954112,
+                        "id_str": "1601008228132954112",
+                        "indices": [
+                            289,
+                            312
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjfsgEBXoAACb9v.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjfsgEBXoAACb9v.jpg",
+                        "url": "https://t.co/6KtEiP1vUq",
+                        "display_url": "pic.twitter.com/6KtEiP1vUq",
+                        "expanded_url": "https://twitter.com/Omid_M/status/1601008231387918338/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1284,
+                                "h": 1260,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 667,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1178,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 22899683,
+                "id_str": "22899683",
+                "name": "Omid Memarian",
+                "screen_name": "Omid_M",
+                "location": "United States",
+                "description": "Journalist, Analyst, @ucbsoj, #Iran, #Politics, #Journalism, #Media, #MiddleEast, #Art, Communications Director at @dawnmenaorg",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 109195,
+                "friends_count": 2874,
+                "listed_count": 830,
+                "created_at": "Thu Mar 05 09:03:35 +0000 2009",
+                "favourites_count": 15592,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 8290,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1499429145599746060/aL6mQyGR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499429145599746060/aL6mQyGR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/22899683/1452920018",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6241,
+            "favorite_count": 9436,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6241,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:24 +0000 2022",
+        "id": 1601365930109698048,
+        "id_str": "1601365930109698048",
+        "full_text": "RT @mamamam1292: #AliMoazzami is the next detainee in line to be executed.He is only 20 years old. According to some reports, he is schedul\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AliMoazzami",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mamamam1292",
+                    "name": "i'm not a bot -_-",
+                    "id": 1397945765763375107,
+                    "id_str": "1397945765763375107",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 188640391,
+            "id_str": "188640391",
+            "name": "\u0633\u0641\u06cc\u062f",
+            "screen_name": "sssefiddd",
+            "location": "",
+            "description": "\u06cc\u0647 \u0631\u0648\u0632 \u062e\u0648\u0628 \u0645\u06cc\u0627\u062f\u061f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 205,
+            "friends_count": 419,
+            "listed_count": 1,
+            "created_at": "Thu Sep 09 06:25:38 +0000 2010",
+            "favourites_count": 47920,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4284,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1227328366564515842/RIelVsnb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227328366564515842/RIelVsnb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/188640391/1606095646",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 22:43:49 +0000 2022",
+            "id": 1601346908186112000,
+            "id_str": "1601346908186112000",
+            "full_text": "#AliMoazzami is the next detainee in line to be executed.He is only 20 years old. According to some reports, he is scheduled to be executed tomorrow morning Let's not be silent.\n\n#SayTheirNames\n#MohsenShekari \n#MahsaAmini \n#\u0639\u0644\u06cc_\u0645\u0639\u0638\u0645\u06cc \n#OpIran \n#IranRevoIution \n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc https://t.co/E9V410v52K",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                272
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AliMoazzami",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "SayTheirNames",
+                        "indices": [
+                            179,
+                            193
+                        ]
+                    },
+                    {
+                        "text": "MohsenShekari",
+                        "indices": [
+                            194,
+                            208
+                        ]
+                    },
+                    {
+                        "text": "MahsaAmini",
+                        "indices": [
+                            210,
+                            221
+                        ]
+                    },
+                    {
+                        "text": "\u0639\u0644\u06cc_\u0645\u0639\u0638\u0645\u06cc",
+                        "indices": [
+                            223,
+                            233
+                        ]
+                    },
+                    {
+                        "text": "OpIran",
+                        "indices": [
+                            235,
+                            242
+                        ]
+                    },
+                    {
+                        "text": "IranRevoIution",
+                        "indices": [
+                            244,
+                            259
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            261,
+                            272
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601346902422855680,
+                        "id_str": "1601346902422855680",
+                        "indices": [
+                            273,
+                            296
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjkghgEWIAAObm5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjkghgEWIAAObm5.jpg",
+                        "url": "https://t.co/E9V410v52K",
+                        "display_url": "pic.twitter.com/E9V410v52K",
+                        "expanded_url": "https://twitter.com/mamamam1292/status/1601346908186112000/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1080,
+                                "h": 1081,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1081,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 679,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601346902422855680,
+                        "id_str": "1601346902422855680",
+                        "indices": [
+                            273,
+                            296
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjkghgEWIAAObm5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjkghgEWIAAObm5.jpg",
+                        "url": "https://t.co/E9V410v52K",
+                        "display_url": "pic.twitter.com/E9V410v52K",
+                        "expanded_url": "https://twitter.com/mamamam1292/status/1601346908186112000/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1080,
+                                "h": 1081,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1081,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 679,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1601346905723772930,
+                        "id_str": "1601346905723772930",
+                        "indices": [
+                            273,
+                            296
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjkghsXWIAIQxUC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjkghsXWIAIQxUC.jpg",
+                        "url": "https://t.co/E9V410v52K",
+                        "display_url": "pic.twitter.com/E9V410v52K",
+                        "expanded_url": "https://twitter.com/mamamam1292/status/1601346908186112000/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 920,
+                                "h": 775,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 573,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 920,
+                                "h": 775,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1397945765763375107,
+                "id_str": "1397945765763375107",
+                "name": "i'm not a bot -_-",
+                "screen_name": "mamamam1292",
+                "location": "",
+                "description": "kir to khamenei koskesh",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 33,
+                "friends_count": 22,
+                "listed_count": 0,
+                "created_at": "Thu May 27 16:00:35 +0000 2021",
+                "favourites_count": 9692,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10011,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1599178036024250368/hUgvu445_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1599178036024250368/hUgvu445_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 76,
+            "favorite_count": 67,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 76,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:19 +0000 2022",
+        "id": 1601365911201492993,
+        "id_str": "1601365911201492993",
+        "full_text": "RT @channeldraw: There are unconfirmed reports that #AliMoazzemiGoudarzi could get executed tonight. He has been sentenced to death for \"co\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AliMoazzemiGoudarzi",
+                    "indices": [
+                        52,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "channeldraw",
+                    "name": "Gianluca Costantini",
+                    "id": 49592004,
+                    "id_str": "49592004",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1467322247895564290,
+            "id_str": "1467322247895564290",
+            "name": "Sal",
+            "screen_name": "solitudosal",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45,
+            "friends_count": 77,
+            "listed_count": 0,
+            "created_at": "Sun Dec 05 02:37:51 +0000 2021",
+            "favourites_count": 1921,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1875,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1467335348082679813/cSf7ITzk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467335348082679813/cSf7ITzk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467322247895564290/1638675111",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 19:17:13 +0000 2022",
+            "id": 1601294918537748480,
+            "id_str": "1601294918537748480",
+            "full_text": "There are unconfirmed reports that #AliMoazzemiGoudarzi could get executed tonight. He has been sentenced to death for \"corruption on earth\".\n\n #JinJiyanAzad\u00ee #JinaMahsaAmini \n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc #Mahsa_Amini https://t.co/Ks6qVWSaxt",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                200
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AliMoazzemiGoudarzi",
+                        "indices": [
+                            35,
+                            55
+                        ]
+                    },
+                    {
+                        "text": "JinJiyanAzad\u00ee",
+                        "indices": [
+                            144,
+                            158
+                        ]
+                    },
+                    {
+                        "text": "JinaMahsaAmini",
+                        "indices": [
+                            159,
+                            174
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            176,
+                            187
+                        ]
+                    },
+                    {
+                        "text": "Mahsa_Amini",
+                        "indices": [
+                            188,
+                            200
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601294631114768409,
+                        "id_str": "1601294631114768409",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fjjw-6RWABkp2E9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fjjw-6RWABkp2E9.jpg",
+                        "url": "https://t.co/Ks6qVWSaxt",
+                        "display_url": "pic.twitter.com/Ks6qVWSaxt",
+                        "expanded_url": "https://twitter.com/channeldraw/status/1601294918537748480/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 650,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1957,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1147,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601294631114768409,
+                        "id_str": "1601294631114768409",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fjjw-6RWABkp2E9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fjjw-6RWABkp2E9.jpg",
+                        "url": "https://t.co/Ks6qVWSaxt",
+                        "display_url": "pic.twitter.com/Ks6qVWSaxt",
+                        "expanded_url": "https://twitter.com/channeldraw/status/1601294918537748480/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 650,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1957,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1147,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 49592004,
+                "id_str": "49592004",
+                "name": "Gianluca Costantini",
+                "screen_name": "channeldraw",
+                "location": "Worldwid",
+                "description": "\u00abThis is a place of work. If you are not working, then get on the streets and rebel.\u00bb \u2605 gianlucacostantini@protonmail.com",
+                "url": "https://t.co/gYZM9CIgou",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gYZM9CIgou",
+                                "expanded_url": "http://www.channeldraw.org",
+                                "display_url": "channeldraw.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 78848,
+                "friends_count": 24773,
+                "listed_count": 797,
+                "created_at": "Mon Jun 22 10:28:10 +0000 2009",
+                "favourites_count": 47680,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 25572,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/459695641220763648/DJfbsVQD_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/459695641220763648/DJfbsVQD_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/49592004/1398434890",
+                "profile_link_color": "050505",
+                "profile_sidebar_border_color": "FA0808",
+                "profile_sidebar_fill_color": "FAF7F7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 768,
+            "favorite_count": 1162,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 768,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:17 +0000 2022",
+        "id": 1601365901110304768,
+        "id_str": "1601365901110304768",
+        "full_text": "RT @PartyofDonkeys: #MonaDarmani, 18y, of Tehran, was kidnapped by IR security forces in Satarkhan street 3 days ago. No news and her where\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MonaDarmani",
+                    "indices": [
+                        20,
+                        32
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PartyofDonkeys",
+                    "name": "HezarDastan",
+                    "id": 796770811071885312,
+                    "id_str": "796770811071885312",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1460593243062734859,
+            "id_str": "1460593243062734859",
+            "name": "Milgull",
+            "screen_name": "Millgul",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 8,
+            "listed_count": 0,
+            "created_at": "Tue Nov 16 12:59:14 +0000 2021",
+            "favourites_count": 539,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 94,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1560279648721944576/FXrqKb33_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1560279648721944576/FXrqKb33_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460593243062734859/1660834632",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 16:51:08 +0000 2022",
+            "id": 1601258155584892928,
+            "id_str": "1601258155584892928",
+            "full_text": "#MonaDarmani, 18y, of Tehran, was kidnapped by IR security forces in Satarkhan street 3 days ago. No news and her whereabouts remains unknown. Be her voice.\n\n#MahsaAmini #MohsenShekari #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc #\u0645\u0648\u0646\u0627_\u062f\u0631\u0645\u0627\u0646\u06cc https://t.co/ldHy1Fhjns",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                209
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MonaDarmani",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "MahsaAmini",
+                        "indices": [
+                            158,
+                            169
+                        ]
+                    },
+                    {
+                        "text": "MohsenShekari",
+                        "indices": [
+                            170,
+                            184
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            185,
+                            196
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0648\u0646\u0627_\u062f\u0631\u0645\u0627\u0646\u06cc",
+                        "indices": [
+                            197,
+                            209
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601258150409142273,
+                        "id_str": "1601258150409142273",
+                        "indices": [
+                            210,
+                            233
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjPzdDWAAE2ykN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjPzdDWAAE2ykN.jpg",
+                        "url": "https://t.co/ldHy1Fhjns",
+                        "display_url": "pic.twitter.com/ldHy1Fhjns",
+                        "expanded_url": "https://twitter.com/PartyofDonkeys/status/1601258155584892928/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 346,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 610,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 651,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601258150409142273,
+                        "id_str": "1601258150409142273",
+                        "indices": [
+                            210,
+                            233
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjPzdDWAAE2ykN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjPzdDWAAE2ykN.jpg",
+                        "url": "https://t.co/ldHy1Fhjns",
+                        "display_url": "pic.twitter.com/ldHy1Fhjns",
+                        "expanded_url": "https://twitter.com/PartyofDonkeys/status/1601258155584892928/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 346,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 610,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 651,
+                                "h": 1280,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1601258153244491780,
+                        "id_str": "1601258153244491780",
+                        "indices": [
+                            210,
+                            233
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjPznnWAAQvNPE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjPznnWAAQvNPE.jpg",
+                        "url": "https://t.co/ldHy1Fhjns",
+                        "display_url": "pic.twitter.com/ldHy1Fhjns",
+                        "expanded_url": "https://twitter.com/PartyofDonkeys/status/1601258155584892928/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 935,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 935,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 545,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 796770811071885312,
+                "id_str": "796770811071885312",
+                "name": "HezarDastan",
+                "screen_name": "PartyofDonkeys",
+                "location": "No country for old man \ud83c\uddeb\ud83c\uddee",
+                "description": "\u06af\u0627\u0648\u0627\u0646 \u0648 \u062e\u0631\u0627\u0646\u0650 \u0628\u0627\u0631 \u0628\u0631\u062f\u0627\u0631\u060c \u0628\u0647 \u0632\u0650 \u0645\u0644\u0627\u06cc\u0627\u0646\u0650 \u0645\u0631\u062f\u0645 \u0622\u0632\u0627\u0631 \n\n#IStandWithUKraine \ud83c\uddfa\ud83c\udde6",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 540,
+                "friends_count": 157,
+                "listed_count": 0,
+                "created_at": "Thu Nov 10 17:45:39 +0000 2016",
+                "favourites_count": 2128,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1452,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1602747348840579073/b9cDO92A_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1602747348840579073/b9cDO92A_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/796770811071885312/1664189308",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 37,
+            "favorite_count": 42,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:11 +0000 2022",
+        "id": 1601365877869359104,
+        "id_str": "1601365877869359104",
+        "full_text": "RT @Moein4FreeIran: @Firouz_Naderi Dear Firouz, why don't we make a big group (100 and more) of famous Iranians with different set of skill\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Moein4FreeIran",
+                    "name": "\ud83e\udd8f \u06a9\u0631\u06af\u062f\u0646 \u062e\u0633\u062a\u0647",
+                    "id": 1572223163261411329,
+                    "id_str": "1572223163261411329",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "Firouz_Naderi",
+                    "name": "Firouz M. Naderi",
+                    "id": 27955781,
+                    "id_str": "27955781",
+                    "indices": [
+                        20,
+                        34
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1572223163261411329,
+            "id_str": "1572223163261411329",
+            "name": "\ud83e\udd8f \u06a9\u0631\u06af\u062f\u0646 \u062e\u0633\u062a\u0647",
+            "screen_name": "Moein4FreeIran",
+            "location": "",
+            "description": "\u0641\u0627\u0644\u0648 \u0648 \u0628\u06a9 \u0628\u0647 \u062e\u0627\u0637\u0631 \u0627\u06cc\u0631\u0627\u0646 \n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 275,
+            "friends_count": 554,
+            "listed_count": 0,
+            "created_at": "Tue Sep 20 13:57:00 +0000 2022",
+            "favourites_count": 9514,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6492,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1590463447522762753/OSDEGtjK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590463447522762753/OSDEGtjK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572223163261411329/1669647640",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 08:32:12 +0000 2022",
+            "id": 1601132591461326848,
+            "id_str": "1601132591461326848",
+            "full_text": "@Firouz_Naderi Dear Firouz, why don't we make a big group (100 and more) of famous Iranians with different set of skills (politics, economics, law, etc) to sit together in an online platform and act as a transition parliament for #IranRevoIution2022 ? \n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+            "truncated": false,
+            "display_text_range": [
+                15,
+                264
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "IranRevoIution2022",
+                        "indices": [
+                            230,
+                            249
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            253,
+                            264
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Firouz_Naderi",
+                        "name": "Firouz M. Naderi",
+                        "id": 27955781,
+                        "id_str": "27955781",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1601071069208584192,
+            "in_reply_to_status_id_str": "1601071069208584192",
+            "in_reply_to_user_id": 27955781,
+            "in_reply_to_user_id_str": "27955781",
+            "in_reply_to_screen_name": "Firouz_Naderi",
+            "user": {
+                "id": 1572223163261411329,
+                "id_str": "1572223163261411329",
+                "name": "\ud83e\udd8f \u06a9\u0631\u06af\u062f\u0646 \u062e\u0633\u062a\u0647",
+                "screen_name": "Moein4FreeIran",
+                "location": "",
+                "description": "\u0641\u0627\u0644\u0648 \u0648 \u0628\u06a9 \u0628\u0647 \u062e\u0627\u0637\u0631 \u0627\u06cc\u0631\u0627\u0646 \n#\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 275,
+                "friends_count": 554,
+                "listed_count": 0,
+                "created_at": "Tue Sep 20 13:57:00 +0000 2022",
+                "favourites_count": 9514,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6492,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1590463447522762753/OSDEGtjK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590463447522762753/OSDEGtjK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572223163261411329/1669647640",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:10 +0000 2022",
+        "id": 1601365869992366080,
+        "id_str": "1601365869992366080",
+        "full_text": "RT @KamyarHamejani: The Iranian killing machine is trying to execute protesting prisoners one by one in secret at night in all parts of Ira\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KamyarHamejani",
+                    "name": "\ufbbc\u06a9\u0627\u0645\u06cc\u0627\u0631 \ufbbc\u200c\u062d\u06d5\u0645\u06d5\u062c\u0627\u0646\u06cc",
+                    "id": 957522085265526785,
+                    "id_str": "957522085265526785",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1573687514518388739,
+            "id_str": "1573687514518388739",
+            "name": "Dyar",
+            "screen_name": "MohamadiDyar",
+            "location": "Bor\u00e5s, Sverige",
+            "description": "\u0698\u0646 _\u0698\u06cc\u0627\u0646_\u0626\u0627\u0632\u0627\u062f\u06cc    \u0645\u0627\u0645\u06c6\u0633\u062a\u0627\u06cc \u0642\u0648\u062a\u0627\u0628\u062e\u0627\u0646\u06d5 \u0644\u06d5 \u0634\u0627\u0631\u06cc \u06a9\u0631\u0645\u0627\u0634\u0627\u0646.\u0646\u06cc\u0634\u062a\u06d5 \u062c\u06cc \u0633\u0648\u06cc\u062f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 91,
+            "friends_count": 204,
+            "listed_count": 0,
+            "created_at": "Sat Sep 24 14:55:57 +0000 2022",
+            "favourites_count": 5447,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 570,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1590789582370504704/BOgRCvOy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590789582370504704/BOgRCvOy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573687514518388739/1668108777",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 17:41:01 +0000 2022",
+            "id": 1601270709275152384,
+            "id_str": "1601270709275152384",
+            "full_text": "The Iranian killing machine is trying to execute protesting prisoners one by one in secret at night in all parts of Iran and Kurdistan, the Iranian government is trying them all with fake crimes!  This is a crime against humanity #IRI_Executions #\u0633\u0627\u0645\u0627\u0646_\u06cc\u0627\u0633\u06cc\u0646 #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc @hrw https://t.co/qTUDxIXFZy",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "IRI_Executions",
+                        "indices": [
+                            230,
+                            245
+                        ]
+                    },
+                    {
+                        "text": "\u0633\u0627\u0645\u0627\u0646_\u06cc\u0627\u0633\u06cc\u0646",
+                        "indices": [
+                            246,
+                            258
+                        ]
+                    },
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            259,
+                            270
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hrw",
+                        "name": "Human Rights Watch",
+                        "id": 14700316,
+                        "id_str": "14700316",
+                        "indices": [
+                            271,
+                            275
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1601270699922018307,
+                        "id_str": "1601270699922018307",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjbN7oX0AMTVIu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjbN7oX0AMTVIu.jpg",
+                        "url": "https://t.co/qTUDxIXFZy",
+                        "display_url": "pic.twitter.com/qTUDxIXFZy",
+                        "expanded_url": "https://twitter.com/KamyarHamejani/status/1601270709275152384/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1601270699922018307,
+                        "id_str": "1601270699922018307",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjbN7oX0AMTVIu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjbN7oX0AMTVIu.jpg",
+                        "url": "https://t.co/qTUDxIXFZy",
+                        "display_url": "pic.twitter.com/qTUDxIXFZy",
+                        "expanded_url": "https://twitter.com/KamyarHamejani/status/1601270709275152384/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 519,
+                                "h": 550,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1601270699942879242,
+                        "id_str": "1601270699942879242",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FjjbN7tWIAoDQXD.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FjjbN7tWIAoDQXD.jpg",
+                        "url": "https://t.co/qTUDxIXFZy",
+                        "display_url": "pic.twitter.com/qTUDxIXFZy",
+                        "expanded_url": "https://twitter.com/KamyarHamejani/status/1601270709275152384/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 1016,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1016,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 957522085265526785,
+                "id_str": "957522085265526785",
+                "name": "\ufbbc\u06a9\u0627\u0645\u06cc\u0627\u0631 \ufbbc\u200c\u062d\u06d5\u0645\u06d5\u062c\u0627\u0646\u06cc",
+                "screen_name": "KamyarHamejani",
+                "location": "England, United Kingdom",
+                "description": "\ud835\udc0a\ud835\udc2e\ud835\udc2b\ud835\udc1d\ud835\udc22\ud835\udc2c\ud835\udc21 \ud835\udc0b\ud835\udc1a\ud835\udc27\ud835\udc20\ud835\udc2e\ud835\udc1a\ud835\udc20\ud835\udc1e \ud835\udc13\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc2b | \ud835\udc0f\ud835\udc28\ud835\udc25\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc25 \ud835\udc00\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc2c\ud835\udc2d | \ud835\udc0c\ud835\udc1e\ud835\udc26\ud835\udc1b\ud835\udc1e\ud835\udc2b \ud835\udc28\ud835\udc1f \ud835\udc0a\ud835\udc0c\ud835\udc0c\ud835\udc0a",
+                "url": "https://t.co/d5ZvY2x7JM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/d5ZvY2x7JM",
+                                "expanded_url": "https://linktr.ee/kamyarhamejani",
+                                "display_url": "linktr.ee/kamyarhamejani",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 748,
+                "friends_count": 72,
+                "listed_count": 0,
+                "created_at": "Sun Jan 28 07:53:49 +0000 2018",
+                "favourites_count": 3989,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1175,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1601983670209986560/-6raIANT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1601983670209986560/-6raIANT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/957522085265526785/1658947793",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 44,
+            "favorite_count": 56,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 44,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Dec 09 23:59:09 +0000 2022",
+        "id": 1601365869753688066,
+        "id_str": "1601365869753688066",
+        "full_text": "RT @Rn2shadow: In a few minutes, the ominous morning call to prayer will be heard on the loudspeakers of all the mosques in the city, and i\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Rn2shadow",
+                    "name": "rn\u0660",
+                    "id": 1180578144262250496,
+                    "id_str": "1180578144262250496",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1407406394744135684,
+            "id_str": "1407406394744135684",
+            "name": "Hmm.",
+            "screen_name": "IAmMe6664",
+            "location": "iran",
+            "description": "\u062d\u0636\u0631\u062a \u0627\u06cc\u0646 \u062c\u0645\u0639\u0647 \u0646\u06cc\u0632 \u0646\u06cc\u0627\u0645\u062f\ud83d\uddff  |  she/her  |  \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 204,
+            "friends_count": 292,
+            "listed_count": 0,
+            "created_at": "Tue Jun 22 18:33:43 +0000 2021",
+            "favourites_count": 38495,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7585,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1426921648708628484/D8wOn5Ad_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426921648708628484/D8wOn5Ad_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407406394744135684/1640289790",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Dec 09 23:52:36 +0000 2022",
+            "id": 1601364219676758016,
+            "id_str": "1601364219676758016",
+            "full_text": "In a few minutes, the ominous morning call to prayer will be heard on the loudspeakers of all the mosques in the city, and it will leave us in awe of the question, which Iranian prisoner's life was taken this time? #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc https://t.co/EoNy0mdvzC",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                226
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                        "indices": [
+                            215,
+                            226
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/EoNy0mdvzC",
+                        "expanded_url": "https://twitter.com/yaardabestaani/status/1601032656145162240",
+                        "display_url": "twitter.com/yaardabestaani\u2026",
+                        "indices": [
+                            227,
+                            250
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1180578144262250496,
+                "id_str": "1180578144262250496",
+                "name": "rn\u0660",
+                "screen_name": "Rn2shadow",
+                "location": "under the sky",
+                "description": "fuck it , i love u \ud83e\udd0d",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 97,
+                "friends_count": 110,
+                "listed_count": 0,
+                "created_at": "Sat Oct 05 20:19:19 +0000 2019",
+                "favourites_count": 2702,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 13995,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1572720871013339136/NJ0e7uw-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572720871013339136/NJ0e7uw-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180578144262250496/1669579966",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1601032656145162240,
+            "quoted_status_id_str": "1601032656145162240",
+            "quoted_status": {
+                "created_at": "Fri Dec 09 01:55:05 +0000 2022",
+                "id": 1601032656145162240,
+                "id_str": "1601032656145162240",
+                "full_text": "\u062a\u0627 \u062f\u0642\u0627\u06cc\u0642\u06cc \u062f\u06cc\u06af\u0647 \u0627\u0630\u0627\u0646 \u0645\u0646\u062d\u0648\u0633 \u0635\u0628\u062d \u0628\u0631 \u06af\u0648\u0647\u200c\u062f\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645 \u0645\u0633\u0627\u062c\u062f \u0634\u0647\u0631 \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631 \u0645\u06cc\u0627\u062f \u0648 \u0645\u0627 \u0631\u0648 \u062f\u0631 \u0648\u062d\u0634\u062a \u0627\u06cc\u0646 \u0633\u0648\u0627\u0644 \u0641\u0631\u0648 \u0645\u06cc\u0628\u0631\u0647\u060c \u06a9\u0647 \u0627\u06cc\u0646\u0628\u0627\u0631 \u0632\u0646\u062f\u06af\u06cc \u06a9\u062f\u0627\u0645 \u062c\u0648\u0627\u0646 \u0627\u0633\u06cc\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u06af\u0631\u0641\u062a\u0647 \u0634\u062f\u061f\n#\u0645\u062d\u0633\u0646_\u0634\u06a9\u0627\u0631\u06cc #\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    183
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u0645\u062d\u0633\u0646_\u0634\u06a9\u0627\u0631\u06cc",
+                            "indices": [
+                                160,
+                                171
+                            ]
+                        },
+                        {
+                            "text": "\u0645\u0647\u0633\u0627_\u0627\u0645\u06cc\u0646\u06cc",
+                            "indices": [
+                                172,
+                                183
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 893757772025798656,
+                    "id_str": "893757772025798656",
+                    "name": "\ud80c\udd02\u273aYaar - \u064a\u0627\u0631 \u200c\u200c\u062f\u0628\u0633\u062a\u0627\u0646\u06cc \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                    "screen_name": "YaarDabestaani",
+                    "location": "#\u0641\u0631\u062f\u0627\u06cc_\u0631\u0648\u0634\u0646_\u0622\u0632\u0627\u062f\u06cc",
+                    "description": "Human rights activist, \ud83c\udf08LGBTQ\ud83c\udff3\ufe0f\u200d\ud83c\udf08, animal lover\ud83d\udc15\u200d\ud83e\uddba\ud83d\udc08\u200d\u2b1b\ud83e\udda5, Atheist, \ud83d\udc69\ud83c\udfff\u200d\ud83d\udcbc=\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbc=\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc=\ud83e\uddd1\ud83c\udfff\u200d\ud83d\udcbc #MahsaAmini",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 58471,
+                    "friends_count": 924,
+                    "listed_count": 139,
+                    "created_at": "Sat Aug 05 08:57:12 +0000 2017",
+                    "favourites_count": 139857,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 35517,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1593013294213767171/X3NZPQuk_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1593013294213767171/X3NZPQuk_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/893757772025798656/1668623818",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 548,
+                "favorite_count": 2562,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fa"
+            },
+            "retweet_count": 18,
+            "favorite_count": 52,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1601032656145162240,
+        "quoted_status_id_str": "1601032656145162240",
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

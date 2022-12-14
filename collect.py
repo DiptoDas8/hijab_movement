@@ -22,7 +22,7 @@ def collect_data(hashtag):
     # hashtag = "#HijabBan"
     print(hashtag)
 
-    count = 0
+    # count = 0
     for tweet in tweepy.Cursor(api.search_tweets,q=hashtag,
                             lang="en",
                             tweet_mode='extended',
@@ -36,13 +36,13 @@ def collect_data(hashtag):
             print('saved', created_at_date)
             # pprint(twt_data)
             data_list.append(twt_data)
-            count +- 1
+            # count +- 1
 
-        if len(data_list)>=10:
-            break
+        # if len(data_list)>=10:
+        #     break
         # csvWriter.writerow([tweet.created_at, tweet.text.encode('utf-8')])
 
-    with open(hashtag+'.json', 'w') as fout:
+    with open('data/'+hashtag+'.json', 'w') as fout:
         json.dump(data_list, fout, indent=4)
 
 with open('search_hashtags.txt', 'r') as fin:
